@@ -1,0 +1,15 @@
+{
+  "name": "knex-dev",
+  "version": "1.0.0",
+  "description": "This project aims at using knexjs to manipulate mysql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel James",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.95.8",
+    "mysql2": "^2.2.5"
+  }
+}
